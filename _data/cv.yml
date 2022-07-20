@@ -1,0 +1,72 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jessé Paixão
+    - name: Date of Birth
+      value: 1th June 1994
+    - name: Languages
+      value: English, Portuguese, French
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Structural Dynamics
+      institution: University Bourgogne Franche-Comté / FEMTO-ST Institute, France
+      year: 2023 (prevision)
+      description:
+        - Self-design manufacturing of high-performance engineering structures
+        - Supervised by Prof. Scott Cogan and Prof. Emmanuel Foltête
+          
+    - title: MSc in Solid Mechanics
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2020
+      description:
+        - Damage quantification in laminated composites using gaussian process regression model
+        - Supervised by Prof. Samuel da Silva.  
+      
+           
+    - title: Bachelor in Mechanical Engineering
+      institution: São Paulo State University (UNESP), Brazil
+      year: 2018
+      description:
+        
+- title: Experience
+  type: time_table
+  contents:
+
+    - title: Research Internship Abroad
+      institution: Chonnam National University, Gwangju, South Korea
+      year: 08/2019 - 11/2019
+
+    - title: Visting Student
+      institution: Lusophone University of Humanities and Technology, Lisbon, Portugal
+      year: 07/2019 - 08/2019
+
+    - title: Assistant R&D Engineer
+      institution: CorWave, Paris, France
+      year: 01/2018 - 03/2018
+      description:
+
+    - title: R&D Internship
+      institution: CorWave, Paris, France
+      year: 06/2017 - 12/2017
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/jessepaixao/EASER">EASER</a>
+      year: 2022
+      description: EASER contains the source code for the application of the proposed self-design manufacturing paradigm in a demonstration case of fabrication of a beam-like vibration absorber.
+    - title: <a href="https://github.com/shm-unesp/DATASET_PLATEUN01">CONCEPT</a>
+      year: 2020
+      description: CONCEPT is a dataset of lamb-wave measured in composite structures in healthy and damaged states.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018
+      items: 
+        - CREA Outstanding Undergraduate Student Award 
+        - UNESP Outstanding Undergraduate Student Award
+
