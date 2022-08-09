@@ -1,0 +1,251 @@
+I"9<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/jp_website/assets/img/publication_preview/plate-tmd.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="paixao2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Leveraging physical intelligence for the self-design of high performance engineering structures</div>
+          <!-- Author -->
+          <div class="author">
+          Paixao, Jesse,&nbsp;<a href="https://scholar.google.fr/citations?user=WZbL99QAAAAJ&amp;hl=fr">Sadoulet-Reboul, Emeline</a>,&nbsp;
+                <a href="https://scholar.google.com/citations?user=Jz1x_ukAAAAJ&amp;hl=fr">Foltete, Emmanuel</a>
+                  
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Chevallier, Gael,&nbsp;Cogan, Scott' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Scientific Reports</em> Jul 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://www.nature.com/articles/s41598-022-15229-z" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="/jp_website/assets/pdf/paixao2022_scireports.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>The design of complex engineering structures largely relies on computational intelligence in the form of science-based predictive models to support design decisions. This approach requires modeling and manufacturing uncertainties to be accounted for explicitly and leads to an inescapable trade-off of performance for robustness. To remedy this situation, a novel self-design paradigm is proposed that closes the loop between the design and manufacturing processes by leveraging physical intelligence in the form of real-time experimental observations. This allows the real-time product behavior to participate in its own design. The main benefit of the proposed paradigm is that both manufacturing variability and difficult-to-model physics are accounted for implicitly via in situ measurements thus circumventing the performance-robustness trade-off and guaranteeing enhanced performance with respect to standardized designs. This paradigm shift leads to tailored design realizations which could benefit a wide range of high performance engineering applications. The proposed paradigm is applied to the design of a simply-supported plate with a beam-like absorber introduced to reduce vibrations based on an equal peaks performance criteria. The experimental setup includes a low-cost 3D printer driven by a simple decision algorithm and equipped with an online vibration testing system. The performances of a small population of self-designed plates are compared to their standardized counterparts in order to highlight the advantages and limitations of the new self-design manufacturing paradigm.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="pavlack2022_shm" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Polynomial Chaos-Kriging metamodel for quantification of the debonding area in large wind turbine blades</div>
+          <!-- Author -->
+          <div class="author">
+          Pavlack, Bruna,&nbsp;Paixão, Jessé,&nbsp;
+                Silva, Samuel
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Americo Cunha, Jr,&nbsp;Cava, David García' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Structural Health Monitoring</em> Jul 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://journals.sagepub.com/doi/10.1177/14759217211007956" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p> This study aims to investigate the performance of a data-driven methodology for quantifying damage based on the use of a metamodel obtained from the Polynomial Chaos-Kriging method. The investigation seeks to quantify the severity of the damage, described by a specific type of debonding in a wind turbine blade as a function of a damage index. The damage indexes used are computed using a data-driven vibration-based structural health monitoring methodology. The blade’s debonding damage is introduced artificially, and the blade is excited with an electromechanical actuator that introduces a mechanical impulse causing the impact on the blade. The acceleration responses’ vibrations are measured by accelerometers distributed along the trailing and the wind turbine blade. A metamodel is formerly obtained through the Polynomial Chaos-Kriging method based on the damage indexes, trained with the blade’s healthy condition and four damage conditions, and validated with the other two damage conditions. The Polynomial Chaos-Kriging manifests promising results for capturing the proper trend for the severity of the damage as a function of the damage index. This research complements the damage detection analyses previously performed on the same blade. </p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="paixao2021_jvc" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Delamination area quantification in composite structures using Gaussian process regression and auto-regressive models</div>
+          <!-- Author -->
+          <div class="author">
+          Paixão, Jessé,&nbsp;Silva, Samuel,&nbsp;
+                Figueiredo, Eloi
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Radu, Lucian,&nbsp;Park, Gyuhae' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Vibration and Control</em> Jul 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://journals.sagepub.com/doi/10.1177/1077546320966183" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p> After detecting initial delamination damage in a hotspot region of a composite structure monitored through a data-driven approach, the user needs to decide if there is an imminent structural failure or if the system can be kept in operation under monitoring to track the damage progression and its impact on the structural safety condition. Therefore, this study proposes delamination area quantification by stochastically interpolating global damage indices based on Gaussian process regression and taking into account uncertainty. Auto-regressive models are applied to extract damage-sensitive features from Lamb wave signals, and the Mahalanobis squared distance is used to compute damage indices. Two sets of laboratory tests are used to demonstrate the effectiveness of this methodology—one in carbon–epoxy laminate with simulated damage under temperature changes to show the general steps of the procedure, and a second test involving a set of carbon fiber–reinforced polymer coupons with actual delamination caused by repeated fatigue loads. Various levels of progression damage, measured by the covered area of delamination, are monitored using piezoelectric lead zirconate titanate patches bonded to the structural surfaces of these setups. The Gaussian process regression proved to be capable of accommodating the uncertainties to relate the damage indices versus the damaged area. The results exhibit a smooth and adequate prediction of the damaged area for both simulated damage and actual delamination. </p>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="dasilva2021_jimss" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures</div>
+          <!-- Author -->
+          <div class="author">
+          Silva, Samuel,&nbsp;Paixão, Jessé,&nbsp;
+                Rébillat, Marc
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Mechbal, Nazih' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">1 more author</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Intelligent Material Systems and Structures</em> Jul 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://journals.sagepub.com/doi/10.1177/1045389X20963171" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p> This paper presents the potentiality of the use of extrapolation of a set of Auto-Regressive (AR) models to inspect a future damage sensitive indices based on changes in one-step-ahead prediction errors. The key idea is to use multiple AR models to assess a data-driven model to represent and predict the time-series outputs of the PZT sensors receiving Lamb waves in a composite coupon. Based on some simplified assumptions, after detecting initial damage using some previous classifier, its progression evaluation by interpolating the AR parameters is proposed and examined based on cubic spline functions. After, an extrapolated AR model using this information may verify the future state and to inspect how the damage could progress. An aeronautical composite panel with bonded piezoelectric elements that act both as sensors and actuators is utilized to examine the relationship between the variation of the identified model parameters with various levels of simulated damage. The results have shown a smooth and adequate correlation between the estimates obtained by the extrapolated model and the actual progress of the damage observed. The significant advantage of the proposed procedure is implementing this task without adopting a complicated and costly mathematical-physical model. </p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="paixao2020damage" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Damage quantification in laminated composites using gaussian process regression model</div>
+          <!-- Author -->
+          <div class="author">
+          Paixão, Jessé
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            Jul 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
